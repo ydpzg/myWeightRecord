@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, testDbActivity!</string>
+    <string name="app_name">体重记录器</string>
+    <string name="BACKUP">备份数据库</string>
+    <string name="RESTORE">恢复数据库</string>
+    <string name="CLEAR">清空数据库</string>
+    <string name="ABOUT">关于</string>
+    <string name="QUIT">退出</string>
+    <string name="info">本体重记录器功能在于随时记录体重，得到一段时间的体重值后，可以进行分析，数据显示采用列表和折线图，并实现其月份同期的对比。备份后的文件放在sd卡的根目录，文件名为weight_db，还原时候请将文件weight_db放在sd卡的根目录，才能正确还原数据库。</string>
+</resources>
